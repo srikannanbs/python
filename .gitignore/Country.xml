@@ -1,0 +1,93 @@
+<string xmlns="http://www.webserviceX.NET">
+	<NewDataSet>
+		<Table>
+			<Country>British Indian Ocean Territory</Country>
+			<City>Diego Garcia</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Ahmadabad</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Akola</City>
+		</Table>
+		
+		<Table>
+			<Country>India</Country>
+			<City>Indore</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Jabalpur</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Khandwa</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Kolhapur</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Lucknow / Amausi</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Satna</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Udaipur Dabok</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Bellary</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Vijayawada / Gannavaram</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Coimbatore / Peelamedu</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Cochin / Willingdon</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Cuddapah</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Hyderabad Airport</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Madurai</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Mangalore / Bajpe</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Madras / Minambakkam</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Tiruchchirapalli</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Thiruvananthapuram</City>
+		</Table>
+		<Table>
+			<Country>India</Country>
+			<City>Vellore</City>
+		</Table>
+	</NewDataSet>
+</string>
