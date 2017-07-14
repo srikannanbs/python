@@ -1,0 +1,1 @@
+#def indicates methoddef displaydata (tupledata):    for _ in tupledata:        print(_)        #return 1
